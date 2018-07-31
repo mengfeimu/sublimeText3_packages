@@ -2,9 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Codecs33"
 	],
 	"installed_packages":
 	[
+		"Anaconda",
+		"AutoFileName",
 		"Codecs33",
 		"ConvertToUTF8",
 		"Package Control"
